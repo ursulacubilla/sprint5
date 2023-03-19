@@ -34,7 +34,7 @@ h1 {
     text-align: center;
 }
 .formVotacion {
-    display: block;
+    display: none;
     margin-top: 80px;
     margin-left: 590px;
   }
